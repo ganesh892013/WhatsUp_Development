@@ -3,4 +3,7 @@ Chat
 Blue tick
 status
 Picture Upload
-single user for audio and video
+group call (Audio & Video)
+
+
+
