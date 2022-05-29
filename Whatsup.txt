@@ -2,3 +2,4 @@ WhatsUp Code
 Chat
 Blue tick
 status
+Picture Upload
