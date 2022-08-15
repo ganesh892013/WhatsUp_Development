@@ -4,6 +4,6 @@ Blue tick
 status
 Picture Upload
 group call (Audio & Video)
-
+Adding a status so that user can play Train Games
 
 
